@@ -10,6 +10,9 @@ namespace ProjetoCSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá, mundo meu primeiro projeto");
+            Console.WriteLine("A execução acabou, tecle enter para finalizar...");
+            Console.ReadLine();
         }
     }
 }
