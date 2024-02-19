@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCSharp", "ProjetoCSharp\ProjetoCSharp.csproj", "{C73F5C25-BB29-4E0D-878F-907719FC0255}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandovariavelCsharp", "CriandovariavelCsharp\CriandovariavelCsharp.csproj", "{59DEEF56-4FAC-4BAC-9E02-87D1788AFFCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C73F5C25-BB29-4E0D-878F-907719FC0255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C73F5C25-BB29-4E0D-878F-907719FC0255}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C73F5C25-BB29-4E0D-878F-907719FC0255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59DEEF56-4FAC-4BAC-9E02-87D1788AFFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DEEF56-4FAC-4BAC-9E02-87D1788AFFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DEEF56-4FAC-4BAC-9E02-87D1788AFFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DEEF56-4FAC-4BAC-9E02-87D1788AFFCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
